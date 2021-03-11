@@ -128,12 +128,12 @@ let resumeData = {
   ],
   "testimonials":[
     {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "description":"I have really enjoyed working with Varun Rampal he is a great team players and can really deliver outstanding results.",
+      "name":"Abhishek Kaushik"
     },
     {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "description":"We thank Varun Rampal for the wonderful job in helping us develop our program. He was professional, excellent and hard working. Thanks to him, we were able to achieve our goal on time, and we look forward to continue working with him in the future.",
+      "name":"Gavin"
     }
   ]
 }
